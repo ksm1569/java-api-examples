@@ -1,4 +1,4 @@
-package com.smsoft.stream_exam.pipeline;
+package com.smsoft.stream.pipeline;
 
 public class Student {
     private String name;

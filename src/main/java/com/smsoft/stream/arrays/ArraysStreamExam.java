@@ -1,4 +1,4 @@
-package com.smsoft.stream_exam.arrays_stream;
+package com.smsoft.stream.arrays;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;

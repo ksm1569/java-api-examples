@@ -1,8 +1,8 @@
-package com.smsoft.stream_exam.intrange_stream;
+package com.smsoft.stream.intrange;
 
 import java.util.stream.IntStream;
 
-public class IntRangeStream {
+public class IntRangeStreamExam {
     private static int sum;
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.smsoft.stream_exam;
+package com.smsoft.stream;
 
 import java.util.HashSet;
 import java.util.Set;

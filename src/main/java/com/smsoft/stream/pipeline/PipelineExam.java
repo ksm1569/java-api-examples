@@ -1,9 +1,7 @@
-package com.smsoft.stream_exam.pipeline;
+package com.smsoft.stream.pipeline;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class PipelineExam {
     public static void main(String[] args) {

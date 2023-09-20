@@ -1,4 +1,4 @@
-package com.smsoft.stream_exam.collection;
+package com.smsoft.stream.collection;
 
 public class Product {
     private int productNo;

@@ -1,4 +1,4 @@
-package com.smsoft.stream_exam;
+package com.smsoft.stream;
 
 import java.util.ArrayList;
 import java.util.List;
