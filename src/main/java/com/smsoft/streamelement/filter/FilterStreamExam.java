@@ -1,4 +1,4 @@
-package com.smsoft.stream.filter;
+package com.smsoft.streamelement.filter;
 
 import java.util.ArrayList;
 import java.util.List;

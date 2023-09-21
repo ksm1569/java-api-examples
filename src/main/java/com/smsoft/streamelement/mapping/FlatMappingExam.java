@@ -1,4 +1,4 @@
-package com.smsoft.stream.mapping;
+package com.smsoft.streamelement.mapping;
 
 import java.util.ArrayList;
 import java.util.Arrays;

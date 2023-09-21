@@ -1,10 +1,10 @@
-package com.smsoft.stream.pipeline;
+package com.smsoft.streamelement.sortedlamda;
 
 public class Student {
     private String name;
     private int score;
 
-    public Student (String name, int score) {
+    public Student(String name, int score) {
         this.name = name;
         this.score = score;
     }

@@ -1,4 +1,4 @@
-package com.smsoft.stream;
+package com.smsoft.streamelement;
 
 import java.util.ArrayList;
 import java.util.List;

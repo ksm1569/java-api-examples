@@ -1,4 +1,4 @@
-package com.smsoft.stream.file;
+package com.smsoft.streamelement.file;
 
 import java.nio.charset.Charset;
 import java.nio.file.Files;

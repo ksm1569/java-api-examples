@@ -1,4 +1,4 @@
-package com.smsoft.stream.sortedlamda;
+package com.smsoft.streamelement.sortedlamda;
 
 import java.util.ArrayList;
 import java.util.List;

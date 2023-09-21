@@ -1,4 +1,4 @@
-package com.smsoft.stream.intrange;
+package com.smsoft.streamelement.intrange;
 
 import java.util.stream.IntStream;
 

@@ -1,4 +1,4 @@
-package com.smsoft.stream.sorted;
+package com.smsoft.streamelement.sorted;
 
 import java.util.ArrayList;
 import java.util.Comparator;

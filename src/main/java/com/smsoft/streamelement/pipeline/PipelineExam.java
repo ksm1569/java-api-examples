@@ -1,4 +1,4 @@
-package com.smsoft.stream.pipeline;
+package com.smsoft.streamelement.pipeline;
 
 import java.util.Arrays;
 import java.util.List;

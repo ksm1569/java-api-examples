@@ -1,4 +1,4 @@
-package com.smsoft.stream;
+package com.smsoft.streamelement;
 
 import java.util.HashSet;
 import java.util.Set;
