@@ -1,9 +1,9 @@
-package com.smsoft.stream.map;
+package com.smsoft.stream.mapping;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
-public class MapExam02 {
+public class MappingExam02 {
     public static void main(String[] args) {
         int[] intArray = {1, 2, 3, 4, 5};
 

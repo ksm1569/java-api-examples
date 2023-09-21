@@ -1,4 +1,4 @@
-package com.smsoft.stream.map;
+package com.smsoft.stream.mapping;
 
 public class Student {
     private String name;

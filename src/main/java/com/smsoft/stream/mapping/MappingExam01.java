@@ -1,9 +1,9 @@
-package com.smsoft.stream.map;
+package com.smsoft.stream.mapping;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class MapExam01 {
+public class MappingExam01 {
     public static void main(String[] args) {
         List<Student> studentList = new ArrayList<>();
 
