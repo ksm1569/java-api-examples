@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class CollectExam {
+public class CollectExam01 {
     public static void main(String[] args) {
         List<Student> list = new ArrayList<>();
 
