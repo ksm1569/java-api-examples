@@ -1,6 +1,6 @@
 package com.smsoft.thisisjava.ch11exception.ex01;
 
-public class ExceptionHandlingExample2 {
+public class NullPointExam2 {
     public static void printLength(String data) {
         try {
             int result = data.length();
