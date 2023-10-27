@@ -1,4 +1,4 @@
-package com.smsoft.thisisjava.ch11exception.ex05;
+package com.smsoft.thisisjava.ch11exception.ex05throws;
 
 public class ThrowsExam2 {
     public static void main(String[] args) throws Exception{
