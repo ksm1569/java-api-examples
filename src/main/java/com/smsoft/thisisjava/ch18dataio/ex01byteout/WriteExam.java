@@ -1,4 +1,4 @@
-package com.smsoft.thisisjava.ch18dataio.ex01write;
+package com.smsoft.thisisjava.ch18dataio.ex01byteout;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
