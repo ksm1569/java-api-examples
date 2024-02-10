@@ -1,5 +1,6 @@
 package com.smsoft.gof_designpattern.factorymethodpattern;
 
+// Client
 public class CoffeeShop {
     public static void main(String[] args) {
         CoffeeFactory espressoFactory = new EspressoFactory();
