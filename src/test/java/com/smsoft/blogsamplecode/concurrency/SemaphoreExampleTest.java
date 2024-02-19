@@ -1,5 +1,6 @@
 package com.smsoft.blogsamplecode.concurrency;
 
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import java.util.concurrent.ExecutorService;
@@ -11,6 +12,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class SemaphoreExampleTest {
 
     @Test
+    @DisplayName("Semaphore로 자원접근")
     void semaphoreAccess() throws InterruptedException {
         final SemaphoreExample example = new SemaphoreExample();
         ExecutorService executor = Executors.newFixedThreadPool(10); // 동시에 10개의 스레드를 실행
